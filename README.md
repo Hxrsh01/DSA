@@ -13,19 +13,15 @@ Here, I solve problems, write explanations, and track my progress as I aim to st
 
 ---
 
-## 🛠️ Topics Covered
-- ✅ Arrays & Strings  
-- ✅ Linked List (Singly, Doubly, Circular)  
-- ✅ Stacks & Queues  
-- ✅ Recursion & Backtracking  
-- ✅ Sorting & Searching  
-- ✅ Trees (Binary Tree, BST, Traversals)  
-- ✅ Graphs (BFS, DFS, Shortest Path)  
-- ✅ Dynamic Programming (DP)  
-- ✅ Greedy Algorithms  
-- ✅ Hashing & Maps  
-- ✅ Miscellaneous Problems  
+## 🛠️ Technologies Used
+- **Java** – for solving most problems  
+- **Git & GitHub** – for version control and tracking progress  
+- **LeetCode** – practice platforms  
 
 ---
 
-## 📂 Repository Structure
+## 🛠️ Topics Covered
+- ✅ Arrays & Strings  
+- ✅ Linked List (Singly, Doubly, Circular)
+
+---
